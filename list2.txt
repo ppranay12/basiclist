@@ -6,3 +6,6 @@
 6.tiles
 7.labour
 8.monney
+9.tiem
+10.lazy labour
+11.added in new branch
