@@ -3,3 +3,6 @@
 3.primer
 4.royal paint
 5.ace paint
+6.tiles
+7.labour
+8.monney
